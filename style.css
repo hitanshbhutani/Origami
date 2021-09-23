@@ -1,0 +1,85 @@
+.head{
+      
+    background-color: lightgreen;
+    border:solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     }
+
+
+
+  .grid {
+    background-color: #ff5e00;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    border: 1px solid #8eff7f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#f3be9ae3;
+    border-width: 6px;
+   
+  }
+  
+  
+  .chameleon {
+    border: 1px solid #8eff7f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#f3be9ae3;
+    border-width: 6px;
+  }
+  
+  .cicada {
+    border: 1px solid #8eff7f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#f3be9ae3;
+    border-width: 6px;
+  }
+  
+  .panda {
+    border: 1px solid #8eff7f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#f3be9ae3;
+    border-width: 6px;
+  }
+  
+  .pigeon {
+    border: 1px solid #8eff7f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#f3be9ae3;
+    border-width: 6px;
+  }
+  
+  .teddy {
+    border: 1px solid #8eff7f;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#f3be9ae3;
+    border-width: 6px;
+  }
